@@ -1,0 +1,14 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Treat Python, Markdown, and text files as text
+*.py text
+*.txt text
+*.md  text
+
+# Treat images and binaries as binary
+*.jpg binary
+*.png binary
+*.gif binary
+*.pdf binary
+*.zip binary
